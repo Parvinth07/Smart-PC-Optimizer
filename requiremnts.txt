@@ -1,0 +1,6 @@
+customtkinter
+psutil
+winotify
+pystray
+pillow
+keyboard
